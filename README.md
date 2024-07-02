@@ -1,9 +1,9 @@
-# Richii Mahjong Wait Trainer
+# Riichi Mahjong Wait Trainer
 ## Description:
 
 ### What the program does:
 
-This is a CLI program coded in Go to practice which tiles will make a winning hand in richii mahjong when one away from a valid hand. This program does not handle honor tiles nor Yakuman; it is meant to practice more usual sequences. 
+This is a CLI program coded in Go to practice which tiles will make a winning hand in riichi mahjong when one away from a valid hand. This program does not handle honor tiles nor Yakuman; it is meant to practice more usual sequences. 
 
 ### How to use:
 
